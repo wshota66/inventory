@@ -7,6 +7,6 @@ $(document).ready(function(){
 		  editable: [[1, 'C15'], [2, 'C16'], [3, 'C17']]
 		},
 		hideIdentifier: true,
-		url: 'live_edit.php'		
+		url: 'Inline_Table_Edit.php'		
 	});
 });
