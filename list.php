@@ -24,6 +24,7 @@ width: 100%;
             $('[data-toggle="tooltip"]').tooltip();   
         });
 </script>
+<script type="text/javascript" src="dist/jquery.tabledit.js"></script>
 </head>
 <body>
 <nav aria-label="breadcrumb">
@@ -110,4 +111,5 @@ width: 100%;
         </div>
     </div>
 </body>
+<script type="text/javascript" src="Inline_Table_Edit.js"></script>
 </html>
